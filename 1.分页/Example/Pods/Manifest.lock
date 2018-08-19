@@ -1,0 +1,16 @@
+PODS:
+  - Segmentio (2.1.2)
+
+DEPENDENCIES:
+  - Segmentio (from `../`)
+
+EXTERNAL SOURCES:
+  Segmentio:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Segmentio: 15e7cb1cefb01885a2cdc28eb01b7e7c372d5379
+
+PODFILE CHECKSUM: 761653fe0a6001fe4076ba25b04e279672ecc970
+
+COCOAPODS: 1.4.0
